@@ -1,4 +1,4 @@
-# Super60-Placement-Prep
+# Super60-Placement-Prep DAY 1
 Super 60 Batch | Coding | Projects | Notes | Placement Preparation
 # 🚀 Super 60 Batch Repository
 
